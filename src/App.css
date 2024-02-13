@@ -1,0 +1,41 @@
+.valentine-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.corgi {
+  width: 300px;
+  height: 300px;
+}
+
+.yesButton {
+  background: #22c55e;
+  border: none;
+  padding: 8px 16px 8px 16px;
+  margin: 10px;
+  color: white;
+}
+
+.NoButton {
+  background: #ef4444;
+  border: none;
+  padding: 8px 16px 8px 16px;
+  margin: 10px;
+  color: white;
+}
+
+.título {
+  font-size: 30px;
+}
+
+.text {
+  font-size: 36px;
+}
+
+.corgii {
+  width: 100px;
+  height: 100px;
+}
